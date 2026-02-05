@@ -1,5 +1,8 @@
-## Hi there 👋
-
+Hi, I'm Psyche 👋
+---
+Current Projects
+---
+AI-solver: an AI-powered problem solver
 <!--
 **githubbzxs/githubbzxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
