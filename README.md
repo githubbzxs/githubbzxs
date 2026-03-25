@@ -15,15 +15,11 @@
 
 > I build AI systems that can actually live inside real workflows: self-hosted workspaces, Codex bridges, token accounting services, and tools that turn model capability into repeatable execution.
 
-## Current Projects
+## Public Projects
 
-- `Psyche`: a self-hosted AI workspace focused on multi-provider access, model management, conversation organization, attachments, and production-ready deployment.
+- [`Psyche`](https://github.com/githubbzxs/psyche): a self-hosted AI workspace focused on multi-provider access, model management, conversation organization, attachments, and production-ready deployment.
+- [`teledex`](https://github.com/githubbzxs/teledex): a lightweight bridge that turns Telegram into a remote control surface for Codex sessions, with persistent context, directory binding, and progress previews.
 - [`token-account`](https://github.com/githubbzxs/token-account): a persistent token usage service for Codex sessions with incremental sync, multi-device aggregation, and a live dashboard.
-- `teledex`: a lightweight bridge that turns Telegram into a remote control surface for Codex sessions, with persistent context, directory binding, and progress previews.
-- `codexweb`: a browser-based Codex UI and gateway designed for VPS-hosted usage and mobile access.
-- `AS Market Maker`: a quantitative market-making research project built around `Avellaneda-Stoikov`, professional backtesting workflows, and exchange connectivity.
-
-Some of these projects are still evolving in private. I prefer getting the full loop working first, then deciding what should be polished and published.
 
 ## What I'm Doing
 
