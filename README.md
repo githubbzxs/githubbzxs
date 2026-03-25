@@ -1,6 +1,6 @@
-# 你好，我是 Psyche 👋
+# Hi, I'm Psyche 👋
 
-`自托管 AI 工具构建者` · `Agent 工作流实践者` · `Web / CLI / Telegram 自动化`
+`Self-hosted AI builder` · `Agent workflow operator` · `Web / CLI / Telegram automation`
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -13,40 +13,40 @@
 ![Codex](https://img.shields.io/badge/-Codex-111111?style=flat-square&logo=openai&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-> 我在构建真正能进入日常工作流的 AI 系统：自托管工作台、Codex 远程桥接、Token 用量服务，以及把模型能力落到可执行任务里的产品化工具。
+> I build AI systems that can actually live inside real workflows: self-hosted workspaces, Codex bridges, token accounting services, and tools that turn model capability into repeatable execution.
 
 ## Current Projects
 
-- `Psyche`：面向自托管场景的 AI 工作台，聚焦多 Provider、多模型、会话组织、附件处理与部署闭环。
-- [`token-account`](https://github.com/githubbzxs/token-account)：Codex 会话 Token 用量持久化服务，支持增量同步、多设备聚合与实时 Dashboard。
-- `teledex`：把 Telegram 变成 Codex 的远程控制入口，支持持续会话、目录绑定、过程预览与结果回传。
-- `codexweb`：运行在浏览器里的 Codex Web 界面与网关，适合 VPS 常驻与移动端访问。
-- `AS Market Maker`：基于 `Avellaneda-Stoikov`、专业回测框架与交易所接口的量化做市研究项目。
+- `Psyche`: a self-hosted AI workspace focused on multi-provider access, model management, conversation organization, attachments, and production-ready deployment.
+- [`token-account`](https://github.com/githubbzxs/token-account): a persistent token usage service for Codex sessions with incremental sync, multi-device aggregation, and a live dashboard.
+- `teledex`: a lightweight bridge that turns Telegram into a remote control surface for Codex sessions, with persistent context, directory binding, and progress previews.
+- `codexweb`: a browser-based Codex UI and gateway designed for VPS-hosted usage and mobile access.
+- `AS Market Maker`: a quantitative market-making research project built around `Avellaneda-Stoikov`, professional backtesting workflows, and exchange connectivity.
 
-部分项目仍在私有迭代中。我更看重先把闭环做出来，再决定何时公开与稳定化。
+Some of these projects are still evolving in private. I prefer getting the full loop working first, then deciding what should be polished and published.
 
 ## What I'm Doing
 
-- 把 AI 从“能聊天”推进到“能接入真实工作流并持续执行”
-- 打磨自托管架构，让模型、Provider、数据与部署都保持可控
-- 连接 `Web`、`CLI`、`Telegram` 三种入口，让同一套 Agent 能力在不同场景复用
-- 用轻量系统快速验证产品方向，再逐步做深稳定性与工程质量
+- Moving AI from "can answer" to "can plug into real workflows and keep operating"
+- Building self-hosted setups where models, providers, data, and deployment all stay under control
+- Connecting `Web`, `CLI`, and `Telegram` entry points so the same agent capability can be reused across contexts
+- Using lightweight systems to validate product direction quickly, then hardening what proves useful
 
 ## Focus Areas
 
-- 自托管 AI 产品与多模型接入
-- Codex / Agent 工程化工作流
-- Telegram / Web / CLI 自动化桥接
-- Fastify / FastAPI 服务化落地
-- Token 计量、观测与使用分析
-- 量化研究与工具化基础设施
+- Self-hosted AI products and multi-model integration
+- Codex and agent-oriented engineering workflows
+- Telegram, Web, and CLI automation bridges
+- Service delivery with `Fastify` and `FastAPI`
+- Token accounting, observability, and usage analytics
+- Quant research and tooling infrastructure
 
 ## Tech Stack
 
-- 前端：`React`、`TypeScript`、`Vite`、`Tailwind CSS`
-- 后端：`Fastify`、`FastAPI`、`Node.js`、`Python`
-- 数据与部署：`PostgreSQL`、`SQLite`、`Docker`、`PM2`、`Nginx`
-- AI 集成：`Codex`、`OpenAI-compatible APIs`、`Anthropic-compatible workflows`
+- Frontend: `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+- Backend: `Fastify`, `FastAPI`, `Node.js`, `Python`
+- Data and deployment: `PostgreSQL`, `SQLite`, `Docker`, `PM2`, `Nginx`
+- AI integration: `Codex`, `OpenAI-compatible APIs`, `Anthropic-compatible workflows`
 
 ## GitHub Activity
 
@@ -54,11 +54,11 @@
 
 ## Open To Talk About
 
-- 自托管 AI 应用应该怎么做成真正可维护的产品
-- 如何把 Codex / Agent 接进现有研发工作流
-- 远程控制、自动化桥接与可观测性设计
-- 从 MVP 到可持续迭代系统的工程取舍
+- How to turn self-hosted AI apps into maintainable products
+- How to plug Codex and agents into real engineering workflows
+- Remote control patterns, automation bridges, and observability design
+- The tradeoffs between fast MVPs and long-term maintainability
 
 ---
 
-> 我偏好先做出能跑通的系统，再把它打磨成值得长期维护的产品。
+> I would rather ship a working system first, then refine it into something worth maintaining for the long run.
