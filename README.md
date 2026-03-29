@@ -13,13 +13,14 @@
 ![Codex](https://img.shields.io/badge/-Codex-111111?style=flat-square&logo=openai&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-> I build AI systems that can actually live inside real workflows: self-hosted workspaces, Codex bridges, token accounting services, and tools that turn model capability into repeatable execution.
+> I build AI systems that can actually live inside real workflows: self-hosted workspaces, Codex bridges, token accounting services, and small infrastructure pieces that make agent execution easier to run and maintain.
 
 ## Public Projects
 
-- [`Psyche`](https://github.com/githubbzxs/psyche): a self-hosted AI workspace focused on multi-provider access, model management, conversation organization, attachments, and production-ready deployment.
-- [`teledex`](https://github.com/githubbzxs/teledex): a lightweight bridge that turns Telegram into a remote control surface for Codex sessions, with persistent context, directory binding, and progress previews.
+- [`Psyche`](https://github.com/githubbzxs/psyche): a self-hosted AI workspace for multi-provider chat, provider and model management, attachments, and production-ready deployment.
+- [`teledex`](https://github.com/githubbzxs/teledex): a lightweight Telegram bridge that turns persistent Codex sessions into a practical remote workflow with bound directories and live progress previews.
 - [`token-account`](https://github.com/githubbzxs/token-account): a persistent token usage service for Codex sessions with incremental sync, multi-device aggregation, and a live dashboard.
+- [`codex-bark-notify-hook`](https://github.com/githubbzxs/codex-bark-notify-hook): a small notification adapter that turns Codex notify callbacks into Bark pushes or webhook relays with deduplication and compressed summaries.
 
 ## What I'm Doing
 
