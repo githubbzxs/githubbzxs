@@ -1,6 +1,6 @@
 # Hi, I'm Psyche 👋
 
-`Self-hosted AI builder` · `Agent workflow operator` · `Web / CLI / Telegram automation`
+`AI infrastructure builder` · `Agent workflow engineer` · `Developer tools`
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -14,6 +14,12 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 > I build AI systems that can actually live inside real workflows: self-hosted workspaces, Codex bridges, token accounting services, and small infrastructure pieces that make agent execution easier to run and maintain.
+
+## Selected Open Source Contributions
+
+- [Sub2API #3909](https://github.com/Wei-Shaw/sub2api/pull/3909) — Fixed GPT-5.6 maximum reasoning support across Responses, raw chat, fallback, compact, and WebSocket gateway paths, with comprehensive Go regression tests.
+- [Mastra #19347](https://github.com/mastra-ai/mastra/pull/19347) — Propagated Temporal activity timeout configuration through AST transformation, generated worker bundles, and runtime execution.
+- [Paseo #2000](https://github.com/getpaseo/paseo/pull/2000) — Fixed cross-provider subagent creation when the target provider exposes no agent modes.
 
 ## Public Projects
 
